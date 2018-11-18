@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HaoChuan9421/vue-ueditor-wrap.git"
+    "url": "git+https://github.com/Lindont/vue-ueditor-aos.git"
   },
   "keywords": [
     "ueditor",
@@ -22,9 +22,9 @@
   "author": "黄浩新",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HaoChuan9421/vue-ueditor-wrap/issues"
+    "url": "https://github.com/Lindont/vue-ueditor-aos/issues"
   },
-  "homepage": "https://github.com/HaoChuan9421/vue-ueditor-wrap#readme",
+  "homepage": "https://github.com/Lindont/vue-ueditor-aos#readme",
   "devDependencies": {
     "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
