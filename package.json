@@ -1,0 +1,40 @@
+{
+  "name": "vue-ueditor-aos",
+  "version": "1.5.0",
+  "description": "Vue + UEditor + v-model双向绑定",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint lib/*",
+    "fix": "eslint lib/* --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaoChuan9421/vue-ueditor-wrap.git"
+  },
+  "keywords": [
+    "ueditor",
+    "vue",
+    "v-model",
+    "富文本编辑器",
+    "百度编辑器"
+  ],
+  "author": "黄浩新",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaoChuan9421/vue-ueditor-wrap/issues"
+  },
+  "homepage": "https://github.com/HaoChuan9421/vue-ueditor-wrap#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "eslint-plugin-vue": "^4.0.0"
+  }
+}
